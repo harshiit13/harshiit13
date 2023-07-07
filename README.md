@@ -1,4 +1,6 @@
 
+![MasterHead](./github-header-image.png)
+
 
 <h1 align="center">Hi 👋, I'm Harshit Dabhi</h1>
 <h3 align="center">Hunger of knowledge </h3>

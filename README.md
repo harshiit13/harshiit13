@@ -9,11 +9,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
-- 🔭 I’m currently working on **Web-application**
+- 🔭 I’m currently working on **Machine-Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Reinforcement-Learning**
 
-- 💬 Ask me about **node , Web-app**
+- 💬 Ask me about **node , Web , AI , ML , NN**
 
 - 📫 How to reach me **harshitsinhdabhi@gmail.com**
 
